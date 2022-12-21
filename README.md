@@ -26,6 +26,7 @@ Directory:    Script/Caligula
 
 For further information about Fontographer 3.2, call or write:
 
+```
 Altsys Corporation
 269 W. Renner Rd.
 Richardson, TX 75080
@@ -36,5 +37,6 @@ FAX: (214) 680-0537
 MCI Mail: ALTSYS
 AppleLink: D0590
 America Online: Altsys
+```
 
 This font is Public Domain. You can copy this font with the readme files only!
